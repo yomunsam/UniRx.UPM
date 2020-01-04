@@ -12,5 +12,5 @@ UniRx repository address: [github.com/neuecc/UniRx](https://github.com/neuecc/Un
 Use Unirx by UPM:
 
 ```
-https://github.com/yomunsam/UniRx.UPM.git
+git://github.com/yomunsam/UniRx.UPM.git
 ```
