@@ -1,0 +1,9 @@
+{
+  "name": "com.neuecc.unirx",
+  "author": "neuecc",
+  "displayName": "UniRx",
+  "version": "7.1.0",
+  "unity": "2017.2",
+  "description": "UniRx - Reactive Extensions for Unity\r\n\r\nCreated by Yoshifumi Kawai(neuecc)",
+  "type": "library"
+}
